@@ -1,2 +1,2 @@
-# IA-2-GRUPO-4
-Trabajos prácticos - Inteligencia Artificial 2 - Uncuyo
+# INTELIGENCIA ARTIFICIAL 2 - GRUPO 4
+Tejerina Nicolas - Esperlazza Luciano
