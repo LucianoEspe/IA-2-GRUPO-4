@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_circles
-from sklearn.datasets import make_blobs
 import matplotlib.pyplot as plt
 
 # Generador basado en ejemplo del curso CS231 de Stanford: 
